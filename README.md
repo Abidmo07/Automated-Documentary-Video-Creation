@@ -8,16 +8,6 @@ Transform static images into cinematic documentary-style videos with smooth zoom
 
 ---
 
-## 📹 Demo
-
-| Before (Static Images) | After (Animated Video) |
-|------------------------|------------------------|
-| ![Static](https://via.placeholder.com/300x169/4A90E2/FFFFFF?text=Static+Image) | ![Animated](https://via.placeholder.com/300x169/50B848/FFFFFF?text=Animated+Video) |
-
-[See full example video ↗](#)
-
----
-
 ## ✨ Features
 
 ### 🎥 **Cinematic Effects**
